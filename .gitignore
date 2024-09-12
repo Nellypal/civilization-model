@@ -1,0 +1,8 @@
+*.so
+*.a
+*.o
+obj/
+engine_server
+engine_gui
+coding-style-reports.log
+ref/
